@@ -1,0 +1,5 @@
+# Why do we believe we have free will?
+
+We believe it because we contain within ourselves a self-model, a self in miniature with which we observe and contemplate and predict our actions. And that model can never be complete; it can never tell us ahead of time what we will actually do. There is always some element of our choices which is unknown even to ourselves.
+
+We locate within that mysterious negative space something which we call a soul, and we attribute to it all the mysterious qualities of our own nature, all the things which we know about ourselves, and yet cannot know, all the things we see about ourselves, and yet cannot understand. It is us, but it is deeper than us, the deepest part of us, the very source of our own being and identity, shrouded in clouds and clothed in mysterious fire.
