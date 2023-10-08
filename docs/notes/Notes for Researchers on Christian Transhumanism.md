@@ -1,22 +1,20 @@
-People in the Christian Transhumanist community come from all backgrounds and religious traditions, so there's quite a diversity of perspectives. A large number of contemporary Christian Transhumanists are influenced by:
+### Definitions:
+**Transhumanism can be defined as *the ethical use of science and technology to transform the human condition*.**
+
+**Christian Transhumanism can be defined as *the ethical use of science and technology to transform the human condition, as exemplified by discipleship of Christ*.**
+
+### Scholars who've engaged with Christian Transhumanism
+- Ron Cole-Turner
+- Ted Peters
+- Calvin Mercer
+- J. Jeanine Thweatt
+
+### Christian Transhumanist Community
+Christian Transhumanism is an ecumenical community, in keeping with its engagement with a wide variety of both secular and religious thought. People in the Christian Transhumanist community come from all backgrounds and religious traditions. A large number of contemporary Christian Transhumanists are influenced by:
 
 ### Contemporary influences:
 - NT Wright (on the religious side; see, for example, [Surprised by Hope](https://amzn.to/3LOJUHl))
 - Ray Kurzweil (on the scientific side; see, for example, [The Singularity is Near](https://amzn.to/3LSGaVd)). 
-
-### Relevant historical figures:
-- 1600s Francis Bacon (father of scientific method, theological defense of scientific institutions)
-- 1600s Robert Boyle (early scientist, evangelical Christian, aspired to scientific longevity)
-- 1900s Nikolai Fyodorovich Fyodorov (Fedorov) (Russian Orthodox Christian, inspiration for Russian space program)
-- 1900s Teilhard de Chardin (jesuit priest, paleontologist, used term "transhuman", envisioned the Singularity)
-- 1950s Julian Huxley (atheist, humanist, modern transhumanist movement)
-- 1990s Max More, Natasha Vita-More (90s atheistic secular transhumanist movement)
-- 1990s Frank Tipler (physicist, transhumanist cosmology, later converted to Catholicism)
-
-### Definitions
-**Transhumanism can be defined as *the ethical use of science and technology to transform the human condition*.**
-
-**Christian Transhumanism can be defined as *the ethical use of science and technology to transform the human condition, as exemplified by discipleship of Christ*.**
 
 ### Ethical frameworks
 Within the transhumanist movement, there are various articulated ethics, from:
@@ -41,6 +39,15 @@ In the above framework, Christian Transhumanism can thus be understood as:
     - Particularly by healing diseases, feeding the hungry, clothing the naked; by extending human life and well-being; by elevating people together in compassion and trust.
     - This can entail both technological advocacy, and ethical advocacy.
     - A prime example of this is the Christian Transhumanist Association, and the larger Christian Transhumanist community.
+
+### Relevant historical figures:
+- 1600s Francis Bacon (father of scientific method, theological defense of scientific institutions)
+- 1600s Robert Boyle (early scientist, evangelical Christian, aspired to scientific longevity)
+- 1900s Nikolai Fyodorovich Fyodorov (Fedorov) (Russian Orthodox Christian, inspiration for Russian space program)
+- 1900s Teilhard de Chardin (jesuit priest, paleontologist, used term "transhuman", envisioned the Singularity)
+- 1950s Julian Huxley (atheist, humanist, modern transhumanist movement)
+- 1990s Max More, Natasha Vita-More (90s atheistic secular transhumanist movement)
+- 1990s Frank Tipler (physicist, transhumanist cosmology, later converted to Catholicism)
 
 ### The Religious History of Transhumanism
 
@@ -81,12 +88,6 @@ Tipler's vision was influential in the (largely secular) 90s transhumanist movem
 Tipler's vision also inspired a number of young Christian Transhumanists, who would later form the Christian Transhumanist Association. This includes Micah Redding and Neal Locke.
 
 Tipler himself eventually converted to Catholicism, and is a staunch Christian Transhumanist.
-
-### Scholars who've dealt with Christian Transhumanism
-- Ron Cole-Turner
-- Ted Peters
-- Calvin Mercer
-- J. Jeanine Thweatt
 
 ### Sources
 - [The History of ‘Transhumanism’](https://doi.org/10.1093/notesj/gjv080)
