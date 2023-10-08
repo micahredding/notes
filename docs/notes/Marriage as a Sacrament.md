@@ -16,10 +16,9 @@ In my sister’s recent wedding, I wanted to give them something sacramental. In
 
 Here's part of the service: 
 
-[My Sister's Wedding Ceremony](/NOZ3GnPUSD-5Outv3ERtTQ)
+[[My Sister's Wedding Ceremony]]
 
 ---
 
-[Source — Church of Christ Theology](https://www.facebook.com/groups/108962615857138/permalink/2717870488299658/)
-
-[Related — Church of Christ & Eastern Orthodoxy](/gdeE4EmkSNWFNQLqcg2SbQ)
+Source — [Church of Christ Theology](https://www.facebook.com/groups/108962615857138/permalink/2717870488299658/)
+Related —  [[Church of Christ & Eastern Orthodoxy]]

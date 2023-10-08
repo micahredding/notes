@@ -1,4 +1,4 @@
-# Why Communion should be Sacramental
+# Why Communion is Sacramental
 
 The Churches of Christ, following the Protestant trend, have tended to see Communion or the Lord's Supper as symbolic. The significance of the symbolism was primarily a reflection on the cross, and the significance of the act was primarily seen as a matter of obedience to a specified "act of worship".
 
@@ -14,8 +14,8 @@ Communion is the enacted formation of that love and that identity.
 
 ---
 
-[Related — Marriage as a Sacrament](marriage-sacramental)  
-[Related — Church of Christ & Eastern Orthodoxy](https://hackmd.io/gdeE4EmkSNWFNQLqcg2SbQ)
+Related — [[Marriage as a Sacrament]]  
+Related — [Church of Christ & Eastern Orthodoxy](https://hackmd.io/gdeE4EmkSNWFNQLqcg2SbQ)
 
 ---
 

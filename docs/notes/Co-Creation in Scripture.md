@@ -2,7 +2,7 @@
 
 This is my basic framework for understanding this idea:
 
-1. Genesis 1 gives us the [Creation Mandate](creation-mandate.md), the calling to *rule all things* in imitation of God. This calling is exemplified for us in God's own activity of creating and cultivating life, and the processes of naming and ordering creation. Genesis 2 depicts God leading early humanity in these processes, the embryonic versions of science and technology.
+1. Genesis 1 gives us the [[Creation Mandate]], the calling to *rule all things* in imitation of God. This calling is exemplified for us in God's own activity of creating and cultivating life, and the processes of naming and ordering creation. Genesis 2 depicts God leading early humanity in these processes, the embryonic versions of science and technology.
 2. We do not believe God is absent, and so we understand our rule, our creativity, our ordering of creation to be *with God* in some sense, not a supplanting of God. For us to do as God has called us is not a replacement of God, but the actualization of God's command, and to the fulfillment of God's glory. 
 3. The New Testament reveals just how deeply *with God* God intends for us to be.
   * The Spirit of God is to dwell in us (Acts 2:38, Ephesians 1:14),

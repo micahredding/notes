@@ -1,4 +1,4 @@
 Some notes
 
-[Co-creation in Scripture](co-creation-in-scripture)  
-[The Creation Mandate](creation-mandate)
+[Co-Creation in Scripture](Co-Creation%20in%20Scripture.md)  
+[The Creation Mandate](Creation%20Mandate.md)
