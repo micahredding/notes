@@ -1,4 +1,6 @@
 People in the Christian Transhumanist community come from all backgrounds and religious traditions, so there's quite a diversity of perspectives. A large number of contemporary Christian Transhumanists are influenced by:
+
+### Contemporary influences:
 - NT Wright (on the religious side; see, for example, [Surprised by Hope](https://amzn.to/3LOJUHl))
 - Ray Kurzweil (on the scientific side; see, for example, [The Singularity is Near](https://amzn.to/3LSGaVd)). 
 
@@ -13,28 +15,28 @@ People in the Christian Transhumanist community come from all backgrounds and re
 
 ### Definitions
 
-Transhumanism can be defined as *the ethical use of science and technology to transform the human condition*.
+**Transhumanism can be defined as *the ethical use of science and technology to transform the human condition*.**
 
 Within the transhumanist movement, there are various articulated ethics, from:
 
-1. Radical individualism
+- (1) Radical individualism
     - Seeking to elevate oneself above all others. 
     - A prime example of this ethic is Zoltan Istvan's "Transhumanist Wager".
-2. Radical humanism
+- (2) Radical humanism
     - Seeking to elevate humanity together. 
     - Particularly by erasing disease, poverty, suffering, and extending human life and well-being. 
     - A prime example of this ethic is Humanity+, formerly the World Transhumanist Association.
-3. Radical environmentalism
+- (3) Radical environmentalism
     - Seeking to elevate the entire biosphere. 
     - Particularly by bioengineering the elimination of animal suffering and predation.
     - (This often draws on biblical imagery, such as lions and lambs lying down together.)
     - A prime example of this is David Pearce, co-founder of the World Transhumanist Association.
 
-Christian Transhumanism can be defined as *the ethical use of science and technology to transform the human condition, as exemplified by discipleship of Christ*.
+**Christian Transhumanism can be defined as *the ethical use of science and technology to transform the human condition, as exemplified by discipleship of Christ*.**
 
 In the above framework, Christian Transhumanism can thus be understood as:
 
-4. Radical Christian mission
+- (4) Radical Christian mission
     - Seeking to pursue the ethical imperative of Christ and of God.
     - Particularly by healing diseases, feeding the hungry, clothing the naked; by extending human life and well-being; by elevating people together in compassion and trust.
     - This can entail both technological advocacy, and ethical advocacy.
@@ -62,11 +64,11 @@ __WD Lighthall (1940)__
 
 Lighthall was an evolutionary scientist, seeking to envision the future of life. In his 1940 essay, *The Law of Cosmic Evolutionary Adaptation*, Lighthall envisioned life reaching up beyond all current limits and understanding. He connected this with Dante's line "words cannot tell of that transhuman change", and what he called "Paul's transhumanism", quoting the New Testament.
 
-__Julian Huxley__
+__Julian Huxley (1887-1975)__
 
 Huxley is often credited as the originator of modern transhumanism. He was a dialogue partner of Teilhard de Chardin, and wrote the forward to Teilhard's book The Phenomenon of Man. He explicitly sought to formulate a post-religion religion, as in his book *Religion without Revelation*. His 1957 essay *Transhumanism* defined the modern use of the term: man remaining man, yet transcending himself—and sought to launch the non-religious equivalent to Teilhard de Chardin's work.
 
-__Frank Tipler__
+__Frank Tipler (1947-)__
 
 Frank Tipler is an accomplished physicist, whose 1994 book *The Physics of Immortality* articulated a religious transhumanist cosmology, named the "Omega Point Theory" in honor of Teilhard de Chardin.  
 
