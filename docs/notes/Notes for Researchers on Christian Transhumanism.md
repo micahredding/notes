@@ -83,14 +83,14 @@ Tipler's vision also inspired a number of young Christian Transhumanists, who wo
 Tipler himself eventually converted to Catholicism, and is a staunch Christian Transhumanist.
 
 ### Scholars who've dealt with Christian Transhumanism
-Ron Cole-Turner
-Ted Peters
-Calvin Mercer
-J. Jeanine Thweatt
+- Ron Cole-Turner
+- Ted Peters
+- Calvin Mercer
+- J. Jeanine Thweatt
 
 ### Sources
-[The History of ‘Transhumanism’](https://doi.org/10.1093/notesj/gjv080)
-https://www.theverge.com/a/transhumanism-2015/history-of-transhumanism
-https://hpluspedia.org/wiki/History_of_transhumanism
-https://nickbostrom.com/papers/history.pdf
-https://jetpress.org/v20/steinhart.htm
+- [The History of ‘Transhumanism’](https://doi.org/10.1093/notesj/gjv080)
+- https://www.theverge.com/a/transhumanism-2015/history-of-transhumanism
+- https://hpluspedia.org/wiki/History_of_transhumanism
+- https://nickbostrom.com/papers/history.pdf
+- https://jetpress.org/v20/steinhart.htm
