@@ -14,9 +14,11 @@ People in the Christian Transhumanist community come from all backgrounds and re
 - 1990s Frank Tipler (physicist, transhumanist cosmology, later converted to Catholicism)
 
 ### Definitions
-
 **Transhumanism can be defined as *the ethical use of science and technology to transform the human condition*.**
 
+**Christian Transhumanism can be defined as *the ethical use of science and technology to transform the human condition, as exemplified by discipleship of Christ*.**
+
+### Ethical frameworks
 Within the transhumanist movement, there are various articulated ethics, from:
 
 - (1) Radical individualism
@@ -31,8 +33,6 @@ Within the transhumanist movement, there are various articulated ethics, from:
     - Particularly by bioengineering the elimination of animal suffering and predation.
     - (This often draws on biblical imagery, such as lions and lambs lying down together.)
     - A prime example of this is David Pearce, co-founder of the World Transhumanist Association.
-
-**Christian Transhumanism can be defined as *the ethical use of science and technology to transform the human condition, as exemplified by discipleship of Christ*.**
 
 In the above framework, Christian Transhumanism can thus be understood as:
 
