@@ -12,7 +12,7 @@
 ### Christian Transhumanist Community
 Christian Transhumanism is an ecumenical community, in keeping with its engagement with a wide variety of both secular and religious thought. People in the Christian Transhumanist community come from all backgrounds and religious traditions. A large number of contemporary Christian Transhumanists are influenced by:
 
-### Contemporary influences:
+### Contemporary influences on Christian Transhumanists:
 - NT Wright (on the religious side; see, for example, [Surprised by Hope](https://amzn.to/3LOJUHl))
 - Ray Kurzweil (on the scientific side; see, for example, [The Singularity is Near](https://amzn.to/3LSGaVd)). 
 
@@ -39,6 +39,18 @@ In the above framework, Christian Transhumanism can thus be understood as:
     - Particularly by healing diseases, feeding the hungry, clothing the naked; by extending human life and well-being; by elevating people together in compassion and trust.
     - This can entail both technological advocacy, and ethical advocacy.
     - A prime example of this is the Christian Transhumanist Association, and the larger Christian Transhumanist community.
+
+### Contemporary Transhumanists:
+- Ray Kurzweil
+- Nick Bostrom
+- David Pearce
+- James Hughes
+- Kevin Kelly
+- Robin Hanson
+- Aubrey de Grey
+- David Deutsch
+- Liz Parrish
+- Steve Fuller (sociologist)
 
 ### Relevant historical figures:
 - 1600s Francis Bacon (father of scientific method, theological defense of scientific institutions)
@@ -85,13 +97,17 @@ Tipler's vision was endorsed by fellow physicist David Deutsch in *The Fabric of
 
 Tipler's vision was influential in the (largely secular) 90s transhumanist movement.
 
-Tipler's vision also inspired a number of young Christian Transhumanists, who would later form the Christian Transhumanist Association. This includes Micah Redding and Neal Locke.
+Tipler's vision also inspired a number of young Christian Transhumanists, who would later form the Christian Transhumanist Association. This number includes Micah Redding and Neal Locke.
 
 Tipler himself eventually converted to Catholicism, and is a staunch Christian Transhumanist.
 
+**Christian Transhumanist Association (2013-)**
+
+The history of the association has been documented here: https://www.christiantranshumanism.org/history/
+
 ### Sources
 - [The History of ‘Transhumanism’](https://doi.org/10.1093/notesj/gjv080)
-- https://www.theverge.com/a/transhumanism-2015/history-of-transhumanism
-- https://hpluspedia.org/wiki/History_of_transhumanism
-- https://nickbostrom.com/papers/history.pdf
-- https://jetpress.org/v20/steinhart.htm
+- [A Timeline of Transhumanism - The Verge](https://www.theverge.com/a/transhumanism-2015/history-of-transhumanism)
+- [History of transhumanism - hpluspedia](https://hpluspedia.org/wiki/History_of_transhumanism)
+- [A History Of Transhumanist Thought - Nick Bostrom](https://nickbostrom.com/papers/history.pdf)
+- [Teilhard de Chardin and Transhumanism - Eric Steinhart](https://jetpress.org/v20/steinhart.htm)
