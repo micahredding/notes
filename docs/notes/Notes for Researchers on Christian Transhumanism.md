@@ -1,13 +1,26 @@
 ### Definitions:
-**Transhumanism can be defined as *the ethical use of science and technology to transform the human condition*.**
+- Transhumanism can be defined as *the ethical use of science and technology to transform the human condition*.
+- Christian Transhumanism can be defined as *the ethical use of science and technology to transform the human condition, as exemplified by discipleship of Christ*.
 
-**Christian Transhumanism can be defined as *the ethical use of science and technology to transform the human condition, as exemplified by discipleship of Christ*.**
-
-### Scholars who've engaged with Christian Transhumanism
+### Scholars who've engaged with Christian Transhumanism:
 - Ron Cole-Turner
 - Ted Peters
 - Calvin Mercer
 - J. Jeanine Thweatt
+
+### Contemporary Transhumanists:
+- Ray Kurzweil
+- Nick Bostrom
+- David Pearce
+- James Hughes
+- Kevin Kelly
+- Robin Hanson
+- Aubrey de Grey
+- David Deutsch
+- Liz Parrish
+- Steve Fuller (sociologist)
+- Elon Musk
+- Peter Thiel
 
 ### Christian Transhumanist Community
 Christian Transhumanism is an ecumenical community, in keeping with its engagement with a wide variety of both secular and religious thought. People in the Christian Transhumanist community come from all backgrounds and religious traditions. A large number of contemporary Christian Transhumanists are influenced by:
@@ -39,18 +52,6 @@ In the above framework, Christian Transhumanism can thus be understood as:
     - Particularly by healing diseases, feeding the hungry, clothing the naked; by extending human life and well-being; by elevating people together in compassion and trust.
     - This can entail both technological advocacy, and ethical advocacy.
     - A prime example of this is the Christian Transhumanist Association, and the larger Christian Transhumanist community.
-
-### Contemporary Transhumanists:
-- Ray Kurzweil
-- Nick Bostrom
-- David Pearce
-- James Hughes
-- Kevin Kelly
-- Robin Hanson
-- Aubrey de Grey
-- David Deutsch
-- Liz Parrish
-- Steve Fuller (sociologist)
 
 ### Relevant historical figures:
 - 1600s Francis Bacon (father of scientific method, theological defense of scientific institutions)
@@ -103,7 +104,7 @@ Tipler himself eventually converted to Catholicism, and is a staunch Christian T
 
 **Christian Transhumanist Association (2013-)**
 
-The history of the association has been documented here: https://www.christiantranshumanism.org/history/
+The history of the association has been documented [here](https://www.christiantranshumanism.org/history/).
 
 ### Sources
 - [The History of ‘Transhumanism’](https://doi.org/10.1093/notesj/gjv080)
