@@ -1,4 +1,1 @@
-notes
-=====
-
-Some notes
+This is a collection of short-form posts I wrote years ago, as I was playing around with alternate publishing methods.
