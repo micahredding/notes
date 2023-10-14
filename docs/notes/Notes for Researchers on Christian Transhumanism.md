@@ -9,6 +9,7 @@
 - J. Jeanine Thweatt
 
 ### Contemporary Transhumanists:
+-  *(some may not publically use the label, but will generally be considered such anyway)*
 - Ray Kurzweil
 - Nick Bostrom
 - David Pearce
@@ -22,6 +23,16 @@
 - Elon Musk
 - Peter Thiel
 
+### Relevant historical figures:
+- 1600s Francis Bacon (father of scientific method, theological defense of scientific institutions)
+- 1600s Robert Boyle (early scientist, evangelical Christian, aspired to scientific longevity)
+- 1900s Nikolai Fyodorovich Fyodorov (Fedorov) (Russian Orthodox Christian, inspiration for Russian space program)
+- 1900s Teilhard de Chardin (jesuit priest, paleontologist, used term "transhuman", envisioned the Singularity)
+- 1950s Julian Huxley (atheist, humanist, modern transhumanist movement)
+- 1980s FM 2030
+- 1990s Max More, Natasha Vita-More (90s atheistic secular transhumanist movement)
+- 1990s Frank Tipler (physicist, transhumanist cosmology, later converted to Catholicism)
+
 ### Christian Transhumanist Community
 Christian Transhumanism is an ecumenical community, in keeping with its engagement with a wide variety of both secular and religious thought. People in the Christian Transhumanist community come from all backgrounds and religious traditions. A large number of contemporary Christian Transhumanists are influenced by:
 
@@ -29,8 +40,8 @@ Christian Transhumanism is an ecumenical community, in keeping with its engageme
 - NT Wright (on the religious side; see, for example, [Surprised by Hope](https://amzn.to/3LOJUHl))
 - Ray Kurzweil (on the scientific side; see, for example, [The Singularity is Near](https://amzn.to/3LSGaVd)). 
 
-### Ethical frameworks
-Within the transhumanist movement, there are various articulated ethics, from:
+### Christian Transhumanism as a Transhumanist Ethical Vision
+Christian Transhumanism can be understood as a distinct ethical vision among the span of ethical visions that constitute the larger transhumanist movement. Within the transhumanist movement, there are various articulated ethics, from:
 
 - (1) Radical individualism
     - Seeking to elevate oneself above all others. 
@@ -48,19 +59,13 @@ Within the transhumanist movement, there are various articulated ethics, from:
 In the above framework, Christian Transhumanism can thus be understood as:
 
 - (4) Radical Christian mission
-    - Seeking to pursue the ethical imperative of Christ and of God.
-    - Particularly by healing diseases, feeding the hungry, clothing the naked; by extending human life and well-being; by elevating people together in compassion and trust.
+    - Seeking to pursue the ethical imperative of Christ.
+	    - Transforming humanity into the likeness of Christ;
+	    - Healing diseases, feeding the hungry, clothing the naked;
+	    - extending human life and well-being;
+	    - elevating people together in compassion and trust.
     - This can entail both technological advocacy, and ethical advocacy.
     - A prime example of this is the Christian Transhumanist Association, and the larger Christian Transhumanist community.
-
-### Relevant historical figures:
-- 1600s Francis Bacon (father of scientific method, theological defense of scientific institutions)
-- 1600s Robert Boyle (early scientist, evangelical Christian, aspired to scientific longevity)
-- 1900s Nikolai Fyodorovich Fyodorov (Fedorov) (Russian Orthodox Christian, inspiration for Russian space program)
-- 1900s Teilhard de Chardin (jesuit priest, paleontologist, used term "transhuman", envisioned the Singularity)
-- 1950s Julian Huxley (atheist, humanist, modern transhumanist movement)
-- 1990s Max More, Natasha Vita-More (90s atheistic secular transhumanist movement)
-- 1990s Frank Tipler (physicist, transhumanist cosmology, later converted to Catholicism)
 
 ### The Religious History of Transhumanism
 
@@ -93,6 +98,8 @@ __Frank Tipler (1947-)__
 Frank Tipler is an accomplished physicist, whose 1994 book *The Physics of Immortality* articulated a religious transhumanist cosmology, named the "Omega Point Theory" in honor of Teilhard de Chardin.  
 
 Tipler asked "What would it take for life to survive all the way to the end of time?", and his answer envisioned the universe becoming filled with life, which then guides the entire cosmos into a convergent point of infinite intelligence, power, and beauty. Tipler argues this Omega Point would not only be able to guarantee immortality to all those living, but to engineer the resurrection of all beings who have ever lived, raising them to glory and pleasure beyond our wildest imaginations.
+
+Micah Redding has summarized the Omega Point Theory [here](https://www.micahredding.com/blog/omega-point-theory/), and interviewed Tipler [here](https://www.christiantranshumanism.org/podcast/19/).
 
 Tipler's vision was endorsed by fellow physicist David Deutsch in *The Fabric of Reality*, who nevertheless disagreed with the religious interpretation of Tipler's vision, and remained an atheist.
 
