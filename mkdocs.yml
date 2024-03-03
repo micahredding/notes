@@ -2,8 +2,6 @@ site_name: Micah Redding (notes)
 
 theme:
     name: 'material'
-    icon:
-      logo: material/meteor
     palette:
 
     # Light mode
