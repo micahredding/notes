@@ -6,8 +6,13 @@ on:
       - main
 permissions:
   contents: write
+  pages: write
+  id-token: write
 jobs:
   deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -21,8 +26,16 @@ jobs:
       - run: pip install mkdocs-material
       - run: pip install mkdocs-roamlinks-plugin
       # - run: pip install mkdocs-mermaid2-plugin
-      - run: echo "notes.micahredding.com" > CNAME
-      - uses: actions/configure-pages@v4
+      - run: mkdocs build
+      - run: echo "notes.micahredding.com" > site/CNAME
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
         with:
-          custom_domain: notes.micahredding.com      
-      - run: mkdocs gh-deploy --force
+          custom_domain: notes.micahredding.com
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
