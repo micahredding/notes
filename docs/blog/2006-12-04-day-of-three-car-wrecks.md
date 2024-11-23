@@ -1,0 +1,13 @@
+---
+id: 332
+drupal_id: 4258
+title: Day of Three Car Wrecks
+permalink: /blog/2006/12/04/day-of-three-car-wrecks/
+created_at: 2006-12-04 08:34:00.000000000 Z
+updated_at: 2011-08-20 03:36:31.000000000 Z
+promoted: true
+state: published
+tags:
+- Uncategorized
+---
+On Saturday, we got up very early to go play a show at the Cedar City Christmas Show in Lebanon, TN. It was a pretty awesome event, simply because we made the decision to let Gabe bring his <span style="font-weight:bold;"><span style="font-style:italic;">djembe</span></span> instead of his full drumset. Recently, we've discovered that this actually makes for a pretty cool show, and DRAMATICALLY reduces the amount of stuff that we have to pack, unpack, carry, setup, etc.<br /><br />So, anyway, we setup in about 10 minutes, and started playing. Our show consisted of some originals (Coming Round, Anger, Lord of Winter, Mr Rogers), and then our own rendition of God Rest Ye Merry Gentlemen and Carol of The Bells.<br /><br />Well, it just so happened that we neglected to bring a guitar cable, so the sound guys ran over to a local music store and bought one. Which alerted us to the fact that there was a music store there. So after we had finished playing, we decided to visit this store to see what delightful things we might discover.<br /><br />Well, much to our delight, we found some cheap guitar stands and a <span style="font-style:italic;">very</span> cheap bass case. This was a nice development, as we were planning to buy a case anyway, and this saved us a bunch of money. So we sauntered out of the shop feeling very good about ourselves, just in time to see a long line of firetrucks and ambulances rolling down the street.<br /><br />It turns out that a pickup truck had hit the curb and flipped, landing on its side, and smashing a car just a few parking spaces away from the car of our friend Aimee, who had driven into town just to see us.<br /><br />Fortunately, it turned out that since she was in the music store with us, she avoided this incident completely, and after we helped her get her car out from behind the emergency vehicles, was completely fine.<br /><br />So we took her to a local coffeeshop to calm down, and while we were in the shop, a semi-truck made a wrong turn and hit a car outside. We decided we needed to get out of town before we caused any more trouble...so we went home.<br /><br />While we were at home in our apartment, we heard a huge screeching noise, and looked outside to see a car crumpled by the side of the road. We ran down to check on the occupants of the car. Fortunately, no one was injured, but the car flipped over some huge landscaping rocks, and broke the back axle.<br /><br />This was our Day of the Three Car Wrecks.<br /><br />-micah
