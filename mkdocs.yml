@@ -51,8 +51,6 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks 
-  - blog:
-      blog_dir: blog
 
 extra_javascript:
   - javascripts/mathjax.js
