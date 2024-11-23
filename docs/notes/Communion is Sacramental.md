@@ -14,9 +14,6 @@ Communion is the enacted formation of that love and that identity.
 
 ---
 
-Related — [[Marriage as a Sacrament]]  
-Related — [[Church of Christ & Eastern Orthodoxy]]
-
----
-
-[Source — Church of Christ Theology](https://www.facebook.com/groups/108962615857138/permalink/2670276839725690/)
+- Related — [[Marriage as a Sacrament]]  
+- Related — [[Church of Christ & Eastern Orthodoxy]]
+- [Source — Church of Christ Theology](https://www.facebook.com/groups/108962615857138/permalink/2670276839725690/)
