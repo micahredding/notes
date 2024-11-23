@@ -22,4 +22,7 @@ jobs:
       - run: pip install mkdocs-roamlinks-plugin
       # - run: pip install mkdocs-mermaid2-plugin
       - run: echo "notes.micahredding.com" > CNAME
+      - uses: actions/configure-pages@v4
+        with:
+          custom_domain: notes.micahredding.com      
       - run: mkdocs gh-deploy --force
