@@ -28,14 +28,9 @@ jobs:
       # - run: pip install mkdocs-mermaid2-plugin
       - run: mkdocs build
       - run: echo "notes.micahredding.com" > site/CNAME
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-        with:
-          custom_domain: notes.micahredding.com
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: site
       - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
+          cname: notes.micahredding.com
