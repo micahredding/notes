@@ -43,11 +43,8 @@ Perhaps the Restoration Movement was always intended to reclaim a theological tr
 
 Perhaps we can become a source of revitalizing that tradition in the world today.
 
-[— Micah Redding](http://micahredding.com)
-
 ---
 
-[Source — Church of Christ Theology](https://www.facebook.com/groups/108962615857138/permalink/2666452073441500/?hc_location=ufi)
-
-Related — [[Communion is Sacramental]]  
-Related — [[Marriage as a Sacrament]]  
+- [Source — Church of Christ Theology](https://www.facebook.com/groups/108962615857138/permalink/2666452073441500/?hc_location=ufi)
+- [Facebook Group — Churches of Christ and Eastern Orthodoxy](https://www.facebook.com/groups/eastern.orthodox.church.of.christ)
+- Related — [[Sacrament & Sacramentalism]]

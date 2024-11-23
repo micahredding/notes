@@ -20,5 +20,5 @@ Here's part of the service:
 
 ---
 
-Source — [Church of Christ Theology](https://www.facebook.com/groups/108962615857138/permalink/2717870488299658/)
-Related —  [[Church of Christ & Eastern Orthodoxy]]
+- Source — [Church of Christ Theology](https://www.facebook.com/groups/108962615857138/permalink/2717870488299658/)
+- Related —  [[Church of Christ & Eastern Orthodoxy]]
