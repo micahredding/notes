@@ -21,5 +21,4 @@ jobs:
       - run: pip install mkdocs-material
       - run: pip install mkdocs-roamlinks-plugin
       # - run: pip install mkdocs-mermaid2-plugin
-      - run: mkdir -p site && cp CNAME site/CNAME
       - run: mkdocs gh-deploy --force
